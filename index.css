@@ -52,12 +52,26 @@ button {
     
 }
 
+#increment-btn:hover {
+    transform: scale(1.1);
+
+}
+
 #save-btn {
     background: darkgreen;
 }
 
+#save-btn:hover {
+    transform: scale(1.1);
+
+}
+
 #gameStart {
     background: orangered;
+}
+
+#gameStart:hover {
+    transform: scale(1.1);
 }
 
 #buttons {
