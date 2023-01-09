@@ -1,4 +1,12 @@
 # Click-counter
+
+Quick start:
+
+```
+$ npm install
+$ npm start
+````
+
 A simple but fun click counting game
 
 developed using HTML5, CSS and Javascript
